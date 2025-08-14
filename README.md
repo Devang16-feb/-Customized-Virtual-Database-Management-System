@@ -1,7 +1,7 @@
-# Generalized Data Structure Library (Java)
+# Customized Virtual Database Management System (Java)
 
 ## 📌 Overview
-The **Generalized Data Structure Library** is a **customized in-memory Database Management System (DBMS)** built entirely in Java.  
+The **customized in-memory Database Management System (DBMS)** built entirely in Java.  
 It replicates key features of SQL-based databases but operates **without any external DBMS** — all data is stored and managed in **primary memory** using Java's **LinkedList**.  
 
 This project is designed for:
